@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    border-style: groove;
+    border-color: purple;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkorchid;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: none;
+}
+
+p {
+    text-align: center;
+}
